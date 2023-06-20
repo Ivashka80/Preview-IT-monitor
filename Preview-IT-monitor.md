@@ -61,6 +61,25 @@
 #### Требования к результату
 * прикрепите в файл README.md скриншот вашего дашборда в Yandex Monitoring с мониторингом загрузки процессора виртуальной машины   
 
+
+
+### Ответ
+
+<details>
+
+![image](https://github.com/Ivashka80/Preview-IT-monitor/assets/121082757/5816a1c0-5855-4a95-ac8d-d7608c593d4f)
+
+![image](https://github.com/Ivashka80/Preview-IT-monitor/assets/121082757/3d237ad5-5b1b-4623-9aec-f10e1e5fbf57)
+
+![image](https://github.com/Ivashka80/Preview-IT-monitor/assets/121082757/86a334fd-d0c9-47b8-9dcd-ed45c2cf7aea)
+
+
+
+
+
+</details>
+
+
 ---
 
 ### Задание 2 со звёздочкой*
