@@ -73,9 +73,9 @@
 
 ![image](https://github.com/Ivashka80/Preview-IT-monitor/assets/121082757/86a334fd-d0c9-47b8-9dcd-ed45c2cf7aea)
 
+![image](https://github.com/Ivashka80/Preview-IT-monitor/assets/121082757/6a53686f-6ceb-4f99-ac00-e9064bad1435)
 
-
-
+![image](https://github.com/Ivashka80/Preview-IT-monitor/assets/121082757/d8fe66a0-94ad-490b-a0e8-3d2382cb9077)
 
 </details>
 
